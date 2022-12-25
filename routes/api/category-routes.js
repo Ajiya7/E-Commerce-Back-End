@@ -70,7 +70,7 @@ router.put("/:id",async (req, res) => {
     res.status(500).json(err);
   }
 });
-//FIXME:constraint when deleting
+
 router.delete("/:id",async (req, res) => {
   // deleting a category by its `id` value
   try {
