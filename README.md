@@ -2,13 +2,10 @@
 ![License](https://img.shields.io/badge/license-MIT-blue "License Badge")
 
 ## Table of Contents
-  - [Description](#description)
   - [User Story](#user-story)
   - [Acceptance Criteria](#acceptance-criteria)
   - [Video demo](#video-demo)
   - [Contact Me](#contact-me)
-
-## Description
 
 ## User Story
 
@@ -35,7 +32,7 @@ THEN I am able to successfully create, update, and delete data in my database
 ```
 
 ## Video demo
-link to video: [Video link]()
+link to video: [Video link](https://drive.google.com/file/d/1l4XySwXNijHHNsf1s_2mSmQYXIRmASrR/view)
 ## Contact Me
 - Instagram: _ajiya
 - Email: Ajiyafaruk@gmail.com
